@@ -12,6 +12,7 @@ Tools & Libraries:
 drizzle for database ORM
 tailwind for UI styling
 TypeScript & JavaScript-based configuration files
+
 📁 Project Structure
 .gitignore, .replit - Dev environment setup files
 components.json - Likely used for UI config or structure
@@ -26,6 +27,7 @@ Install dependencies:
 npm install
 Start the development server:
 npm run dev
+
 ✅ Future Enhancements
 Add influencer sentiment analysis using GenAI (GPT/Transformers)
 Integrate social media APIs (Instagram, YouTube)
